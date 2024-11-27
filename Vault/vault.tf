@@ -1,6 +1,6 @@
 /*provider "vault" {
   address = "http://localhost:8200"
-  token   = "hvs.JH3uDdjqTpO3Ow5wi16NUfKc"
+  token   = "" # Vault Token
 }
 
 data "vault_generic_secret" "aws" {
